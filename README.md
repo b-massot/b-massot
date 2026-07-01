@@ -42,7 +42,7 @@ I focus mainly on low-level computing, network architectures, and system securit
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,nginx,git,py,apple,windows,androidstudio" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,nginx,git,py,apple,windows,androidstudio,vim,neovim,vscode,vscodium,obsidian,notion" alt="My Skills" />
 </p>
 
 ---
